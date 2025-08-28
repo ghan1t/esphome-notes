@@ -2,7 +2,7 @@
 
 The ESP32-S3R8 is a dual-core ESP32-S3 board with Ethernet connectivity via W5500 SPI interface.
 
-<center><img src="ProductImage.png" width="450"></center>
+<img src="ProductImage.png" width="450">
 
 ## Specifications
 
@@ -43,9 +43,9 @@ Connect board through USB-C to your PC. If programming fails, try these steps to
 
 ## Pinout
 
-![image.png](PINOUT.png)
+![PINOUT](PINOUT.png)
 
-![image.png](PIN_RESTRICTIONS.png)
+![PIN Restrictions](PIN_Restrictions.png)
 
 ## Pin Restrictions
 
